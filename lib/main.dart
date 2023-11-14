@@ -10,6 +10,8 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: mengobrol_uiapp());
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: mengobrol_uiapp());
   }
 }

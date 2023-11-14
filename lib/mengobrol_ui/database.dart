@@ -166,7 +166,17 @@ List<dynamic> status_data = [
   {'profile': 'assets/profile/profile1.jpg', 'name': 'Terry'},
 ];
 
-
+List<String> emojisdata = [
+  'assets/emoji/emoji1.png',
+  'assets/emoji/emoji2.png',
+  'assets/emoji/emoji3.png',
+  'assets/emoji/emoji4.png',
+  'assets/emoji/emoji5.png',
+  'assets/emoji/emoji7.png',
+  'assets/emoji/emoji8.png',
+  'assets/emoji/emoji9.png',
+  'assets/emoji/emoji10.png',
+];
 
 List received_messages = [
   'Hi, Asal',
@@ -178,7 +188,3 @@ List send_messages = [
   'Hi,Asal',
   "I usually buy directly to the shop to reduce the risk of damaged travel, and prevent any damage"
 ];
-
-
-
-
